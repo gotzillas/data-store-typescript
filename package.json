@@ -1,0 +1,27 @@
+{
+  "name": "@gotzillas/data-store-typescript",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "utils",
+    "color",
+    "store",
+    "typescript",
+    "gotzillas"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gotzillas/data-store-typescript"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotzillas/data-store-typescript/issues"
+  },
+  "homepage": "https://github.com/gotzillas/data-store-typescript#readme",
+  "devDependencies": {}
+}
